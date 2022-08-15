@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ludo/static/css/main.0a03fe86.css",
+    "main.js": "/ludo/static/js/main.2a3dea04.js",
+    "index.html": "/ludo/index.html",
+    "main.0a03fe86.css.map": "/ludo/static/css/main.0a03fe86.css.map",
+    "main.2a3dea04.js.map": "/ludo/static/js/main.2a3dea04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a03fe86.css",
+    "static/js/main.2a3dea04.js"
+  ]
+}
