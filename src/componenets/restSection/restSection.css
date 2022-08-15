@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.rest_pos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 200px;
+}
+.inner_box {
+  height: 160px;
+  width: 160px;
+  border: 20px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.dot_home {
+  height: 100px;
+  width: 100px;
+}
+.upper_home {
+  width: 100%;
+  height: 50%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.lower_home {
+  width: 100%;
+  height: 50%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+.dot {
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.b {
+  background-color: rgb(60, 157, 243);
+}
+.bb {
+  border-color: rgb(60, 157, 243);
+}
+.g {
+  background-color: green;
+}
+.bg {
+  border-color: green;
+}
+.y {
+  background-color: orange;
+}
+.by {
+  border-color: orange;
+}
+.r {
+  background-color: red;
+}
+.br {
+  border-color: red;
+}
+.ypiece {
+  position: absolute;
+  margin: 0px;
+  height: 25px;
+  width: 25px;
+  background-color: yellow;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+.bpiece {
+  position: absolute;
+  margin: 0px;
+  height: 25px;
+  width: 25px;
+  background-color: rgb(137, 190, 237);
+  border-radius: 50%;
+  border: 1px solid black;
+  z-index: 500;
+}
+.gpiece {
+  position: absolute;
+  margin: 0px;
+  height: 25px;
+  width: 25px;
+  background-color: rgb(62, 190, 62);
+  border-radius: 50%;
+  border: 1px solid black;
+}
+.rpiece {
+  position: absolute;
+  margin: 0px;
+  height: 25px;
+  width: 25px;
+  background-color: rgb(210, 72, 72);
+  border-radius: 50%;
+  border: 1px solid black;
+}
+.testing {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
