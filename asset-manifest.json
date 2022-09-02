@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ludo/static/css/main.db82a271.css",
-    "main.js": "/ludo/static/js/main.9567423c.js",
+    "main.js": "/ludo/static/js/main.c412c3ba.js",
     "index.html": "/ludo/index.html",
     "main.db82a271.css.map": "/ludo/static/css/main.db82a271.css.map",
-    "main.9567423c.js.map": "/ludo/static/js/main.9567423c.js.map"
+    "main.c412c3ba.js.map": "/ludo/static/js/main.c412c3ba.js.map"
   },
   "entrypoints": [
     "static/css/main.db82a271.css",
-    "static/js/main.9567423c.js"
+    "static/js/main.c412c3ba.js"
   ]
 }
