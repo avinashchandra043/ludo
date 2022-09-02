@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/ludo/static/css/main.db82a271.css",
-    "main.js": "/ludo/static/js/main.c412c3ba.js",
+    "main.js": "/ludo/static/js/main.91e951da.js",
+    "static/media/piece_move.mp3": "/ludo/static/media/piece_move.21e1935441b27107a7b3.mp3",
+    "static/media/piece_cut.wav": "/ludo/static/media/piece_cut.770bcadbe78202a4c735.wav",
+    "static/media/dice_roll.wav": "/ludo/static/media/dice_roll.2393f5dce7fd5951a4e3.wav",
     "index.html": "/ludo/index.html",
     "main.db82a271.css.map": "/ludo/static/css/main.db82a271.css.map",
-    "main.c412c3ba.js.map": "/ludo/static/js/main.c412c3ba.js.map"
+    "main.91e951da.js.map": "/ludo/static/js/main.91e951da.js.map"
   },
   "entrypoints": [
     "static/css/main.db82a271.css",
-    "static/js/main.c412c3ba.js"
+    "static/js/main.91e951da.js"
   ]
 }
