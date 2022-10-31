@@ -24,7 +24,7 @@ The project contains game of `ludo`. This is a fully responsive ludo game build 
  ## Mobile Version
  ![](ludo-image/Screenshots/mobile_version.png)
  # Contact
+ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-chandra-12540020b/)`https://www.linkedin.com/in/avinash-chandra-12540020b/`
+ 
+ 
 <img align="left" alt="gmail" width="26px" src="./ludo-image/readmeAssets/gmail.webp" /> `avinashchandrabarik01@gmail.com`
-
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-chandra-12540020b/)
