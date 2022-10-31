@@ -24,7 +24,7 @@ The project contains game of `ludo`. This is a fully responsive ludo game build 
  ## Mobile Version
  ![](ludo-image/Screenshots/mobile_version.png)
  # Link
- Click [here]([quora.com/profile/Ashish-Kulkarni-100](https://avinashchandra043.github.io/ludo/)) to play ludo. 
+Click [here](https://avinashchandra043.github.io/ludo/) to play ludo. 
  # Contact
  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-chandra-12540020b/)`https://www.linkedin.com/in/avinash-chandra-12540020b/`
  
