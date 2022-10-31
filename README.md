@@ -23,3 +23,5 @@ The project contains game of `ludo`. This is a fully responsive ludo game build 
  ![](ludo-image/Screenshots/desktop_version.png)
  ## Mobile Version
  ![](ludo-image/Screenshots/mobile_version.png)
+ # Contact
+<img align="left" alt="gmail" width="26px" src="./ludo-image/readmeAssets/gmail.png" /> `avinashchandrabarik01@gmail.com`
